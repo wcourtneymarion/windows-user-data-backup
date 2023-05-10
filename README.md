@@ -1,4 +1,4 @@
-```
+
 # PowerShell Script: User Data Backup
 
 This PowerShell script allows you to copy user data from specific folders (Desktop, Documents, and Downloads) to a destination drive, optionally including only student data. The script provides a convenient way to back up user data while excluding unnecessary folders.
