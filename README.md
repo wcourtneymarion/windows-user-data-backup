@@ -42,4 +42,3 @@ To run the script, follow these steps:
 8. Once the script completes, you can verify that the user data has been copied to the backup folder on the specified drive.
 
 > **Note:** Ensure that you have the necessary permissions to access the user data and the destination drive. Additionally, test the script in a controlled environment or on a small scale before running it in a production environment to ensure it behaves as expected.
-```
